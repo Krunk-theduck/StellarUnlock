@@ -2,6 +2,6 @@
   "id": "stellarunlock",
   "name": "StellarUnlock",
   "author": "Krunk",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Loads every planet cut from the demo, unlocks the Stellar Core and the cut demo parts (Rotor, Bed, Clone Pod, Fluid Pump, Wall Socket, Stellar Exhaust), and adds extra ores. F8 menu."
 }
