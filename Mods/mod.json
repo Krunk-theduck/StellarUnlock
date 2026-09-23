@@ -1,7 +1,7 @@
 {
-  "id": "stellarunlock",
-  "name": "StellarUnlock",
-  "author": "Krunk",
-  "version": "1.2.1",
-  "description": "Loads every planet cut from the demo, unlocks the Stellar Core and the cut demo parts (Rotor, Bed, Clone Pod, Fluid Pump, Wall Socket, Stellar Exhaust), and adds extra ores. F8 menu."
+    "id":  "stellarunlock",
+    "name":  "Stellar Unlock",
+    "author":  "Krunk",
+    "version":  "1.3.0",
+    "description":  "Bring back the prototype planets! Loads locked planets and spawns resources on them. Also brings back locked prototype items and parts. Needs SDModKit."
 }
