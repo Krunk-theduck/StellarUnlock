@@ -2,6 +2,8 @@
     "id":  "stellarunlock",
     "name":  "Stellar Unlock",
     "author":  "Krunk",
-    "version":  "1.3.2",
-    "description":  "Bring back the prototype planets! Loads locked planets and spawns resources on them. Also brings back locked prototype items and parts. Needs SDModKit."
+    "version":  "1.3.3",
+    "description":  "Bring back the prototype planets! Loads locked planets and spawns resources on them. Also brings back locked prototype items and parts. Needs SDModKit.",
+    "thumbnail": "sut.png",
+    "images": ["sug.png"]
 }
